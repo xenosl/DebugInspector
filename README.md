@@ -15,4 +15,3 @@ Reason: System.Reflection.Emit doesn't exist any more and there are lots of dyna
 - Collect error logs and exception when accessing properties.
 - List stack trace of error logs and exception when accessing properties and open source file with a simple click.
 - Filter display objects by search text and filter options.
-- Full source code included.
